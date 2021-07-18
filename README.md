@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Marealta-J
+- 👀 I’m interested in programming and design ^-^
+- 🌱 I’m currently learning html 5, css3, js and building websites
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://t.me/MarealtaDEV and julia.marealta@gmail.com UwU
