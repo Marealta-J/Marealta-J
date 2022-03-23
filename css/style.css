@@ -35,13 +35,15 @@ h2{
    font-size: 90px;
    line-height: 152.5%;
    display: inline;
-
 }
 h3{
+   font-size: 90px;
 
 }
 h4{
    font-size: 40px;
+   line-height: 60px;
+   font-weight: 400;
    line-height: 60px;
 }
 .container {
@@ -77,4 +79,15 @@ h4{
    background: var(--color-button);
    box-shadow: var(--shadow-button);
    border-radius: var(--radius-button);
+}
+.aboutMe{
+   width: 770px;
+   height: 163px;
+   position: absolute;
+   left: 187px;
+   top: 163px;
+}
+.circle{
+   width: 600px;
+   height: 600px;
 }
